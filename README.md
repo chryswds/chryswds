@@ -8,7 +8,7 @@
 
 - Experience in data processing using SAP
 - Experience in database implementation using Java, SpringBoot, and Express.js
-- Experience with AWS environment (EC2, LoadBalancer, Autoscalling, CloudWatch)
+- Experience with AWS environment (EC2, S3 Buckets, RDS, LoadBalancer, Autoscalling, CloudWatch)
 - Experience with linux environment (VMs)
 
 - Teamwork
