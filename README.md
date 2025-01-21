@@ -9,6 +9,7 @@
 - Experience in data processing using SAP
 - Experience in database implementation using Java, SpringBoot, and Express.js
 - Experience with AWS environment (EC2, S3 Buckets, RDS, LoadBalancer, Autoscalling, CloudWatch)
+- Experience with Docker Container implementation
 - Experience with linux environment (VMs)
 
 - Teamwork
@@ -31,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50/>
+          
 </div>
           
           
