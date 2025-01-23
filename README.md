@@ -12,11 +12,6 @@
 - Experience with Docker Container implementation
 - Experience with linux environment (VMs)
 
-- Teamwork
-- Pro activity
-- Fast Learner
-- Commitment
-
 **Languages and Technologies that i have familiarity with and have been studying recently**
 
 
