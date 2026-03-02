@@ -1,7 +1,7 @@
 ## Hi there, my name is Chrystian !👋
 
 - I'm 23 years old based in Dublin, IE
-- Currently attending 5th semester in Computer Science
+- Currently attending 6th semester in Computer Science
 - Interested in back-end and cloud computing.
 
 **Skills and Experiences**
