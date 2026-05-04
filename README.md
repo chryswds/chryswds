@@ -7,7 +7,8 @@
 **Skills and Experiences**
 
 - Experience in data processing using SAP
-- Experience in database implementation using Java, SpringBoot, and Express.js
+- Experience with SQL/noSQL databases (MySQL, MongoDB)
+- Experience with Frameworks such as Spring Boot and express js
 - Experience with AWS environment (EC2, S3 Buckets, RDS, LoadBalancer, Autoscalling, CloudWatch)
 - Experience with Docker Container implementation
 - Experience with linux environment (VMs)
