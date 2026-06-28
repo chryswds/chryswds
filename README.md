@@ -2,37 +2,16 @@
 
 - I'm 23 years old based in Dublin, IE
 - Currently attending 6th semester in Computer Science
-- Interested in back-end and cloud computing.
+- Interested in systems programming
 
 **Skills and Experiences**
 
-- Experience in data processing using SAP
-- Experience with SQL/noSQL databases (MySQL, MongoDB)
-- Experience with Frameworks such as Spring Boot and express js
+- Experience with SQL/noSQL databases
 - Experience with AWS environment (EC2, S3 Buckets, RDS, LoadBalancer, Autoscalling, CloudWatch)
-- Experience with Docker Container implementation
-- Experience with linux environment (VMs)
+- Experience with Docker
+- Experience with Linux environment (VMs)
 
-**Languages and Technologies that i have familiarity with and have been studying recently**
-
-
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
-  <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50/>
-          
-</div>
-          
-          
+  
           
           
           
